@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1747457536 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1747456167 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\fecha.h
+
+1747456168 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1747456170 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\hora.h
+
+1747457869 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\main.cpp
+	<iostream>
+	"Medico.h"
+	"Paciente.h"
+
+1747457153 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\paciente.h
+	"Fecha.h"
+
+1747456666 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\medico.h
+
+1747456648 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\gestionturnos\medico.cpp
+	"Medico.h"
+	<iostream>
+
+1747457536 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1747456167 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\fecha.h
+
+1747456168 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\hora.cpp
+	"Hora.h"
+	<iostream>
+
+1747456170 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\hora.h
+
+1747456648 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\medico.cpp
+	"Medico.h"
+	<iostream>
+
+1747456666 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\medico.h
+
+1747457969 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\main.cpp
+	<iostream>
+	"Medico.h"
+	"Paciente.h"
+
+1747457958 c:\users\facur\onedrive\escritorio\facultad alejo\utn\programacion_n2\tp_gestion_medico\gestiondeturnos\paciente.h
+	"Fecha.h"
+
